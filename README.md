@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### ✨&nbsp; About Me
+
 - 🔭 I'm a student studying Computer Science and Technology at Xiamen University.
 - 🌱 I’m currently learning Operating Systems.
 - 📫 How to reach me: kamiqwer000@gmail.com
+
 <!--
 **Destinykami/Destinykami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
