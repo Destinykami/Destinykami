@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I'm a student studying Computer Science and Technology at Xiamen University.
+- 🌱 I’m currently learning Operating Systems.
+- 📫 How to reach me: kamiqwer000@gmail.com
 <!--
 **Destinykami/Destinykami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
